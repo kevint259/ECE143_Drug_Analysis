@@ -10,7 +10,7 @@ Diseases are one of the biggest problems people face and there's multiple drugs 
 1) UCI ML Drug Review (https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018)
 
 ## Recommender System:
-- To be Determined - 
+- To be Determined
 
 ## Data Visualizations:
 
