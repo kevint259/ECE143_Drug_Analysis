@@ -8,6 +8,7 @@ Diseases are one of the biggest problems people face and there's multiple drugs 
 
 ## Datasets Used:
 1) UCI ML Drug Review (https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018)
+2) WebMD Drug Reviews (https://www.kaggle.com/rohanharode07/webmd-drug-reviews-dataset)
 
 ## Recommender System:
 - To be Determined
